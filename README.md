@@ -17,6 +17,24 @@ license: creativeml-openrail-m
 
 🚀Repository https://huggingface.co/spaces/prithivMLmods/StrangerX-AI-Bot/tree/main
 
+ℹ️Generated Result in Huggingface Spaces:
+
+🔮Prompt : " Give me a best tip of a day "
+
+
 ![alt text](assets/zx1.png)
 
+
+ℹ️Generated Result in Huggingface Spaces:
+
+🔮Prompt : " Give me a code for B+ tree random number Sequences "
+
+
 ![alt text](assets/zx2.png)
+
+.
+
+.
+
+.
+
