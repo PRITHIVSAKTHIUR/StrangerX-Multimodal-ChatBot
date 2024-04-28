@@ -16,3 +16,7 @@ license: creativeml-openrail-m
 🚀Huggingface Space https://huggingface.co/spaces/prithivMLmods/StrangerX-AI-Bot
 
 🚀Repository https://huggingface.co/spaces/prithivMLmods/StrangerX-AI-Bot/tree/main
+
+![alt text](assets/zx1.png)
+
+![alt text](assets/zx2.png)
