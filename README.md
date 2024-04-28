@@ -19,6 +19,8 @@ license: creativeml-openrail-m
 
 ℹ️Generated Result in Huggingface Spaces:
 
+🗞️Mistral 7B & 2B for the Day 2 Day Problem ( HealthTips, Small Logical Problems, Auto-Generative Context ) 
+
 🔮Prompt : " Give me a best tip of a day "
 
 
@@ -26,6 +28,8 @@ license: creativeml-openrail-m
 
 
 ℹ️Generated Result in Huggingface Spaces:
+
+🗞️Microsoft Phi3 ( High Complex Problem, More Parameters, Code-Generation Context )
 
 🔮Prompt : " Give me a code for B+ tree random number Sequences "
 
